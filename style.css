@@ -1,0 +1,98 @@
+h2 {
+    text-align: center;
+    color:#44957E;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.paragraph-1 {
+    color:#46a78b;
+    font-family: 'Raleway', sans-serif;
+}
+ul {
+    color:#46a78b
+}
+.contact-info {
+    color:#46a78b;
+    font-family: 'Raleway', sans-serif;
+}
+p {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+h3 {
+    color:#44957E;
+    font-family: 'Raleway', sans-serif;
+
+}
+.Hi {
+    text-align: center;
+    color:#44957E;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 30px;
+}
+.Name {
+    text-align: center;
+    color:#46a78b;
+    font-family: 'Raleway', sans-serif;
+}
+body {
+    background-color: #dff3ee;
+}
+.container-fluid {
+    background-color: #dff3ee;
+    margin-bottom: 30px;
+}
+.headshot {
+    height: 325px;
+    width: 300px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+.img-fluid {
+    height: 30px;
+    width: 35px;
+    margin-right: 25px;
+}
+.img-fluid1 {
+    height: 25px;
+    width: 100px;
+    margin-right: 25px;
+}
+.card {
+    background-color: #9ae6d0;
+    margin: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.navbar, .navbar-nav {
+    background-color: #9ae6d0;
+    font-family: 'Raleway', sans-serif;
+}
+.footer {
+    color: #46a78b;
+    font-family: 'Raleway', sans-serif;
+}
+.Contact {
+    color: #16a2b8;
+    margin-bottom: -23px;
+}
+.card-text {
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+.card-title {
+    font-family: 'Raleway', sans-serif;
+    color:#ffffff;
+}
+.fab {
+    color: #16a2b8;
+    margin-top: 1px;
+}
+.btn-outline-info {
+    margin-bottom: 5px;
+}
